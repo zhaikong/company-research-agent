@@ -1,5 +1,4 @@
 # Environment and secrets
-.env
 reports/*
 
 # Python
@@ -27,3 +26,4 @@ node_modules/
 Procfile
 .vercel
 .ebextensions
+config.bat
