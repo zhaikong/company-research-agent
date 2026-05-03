@@ -1,5 +1,4 @@
 # Environment and secrets
-.env
 reports/*
 
 # Python
@@ -11,7 +10,6 @@ __pycache__/
 .venv/
 
 # IDE and OS
-.vscode/
 .DS_Store
 
 # Frontend
@@ -27,3 +25,4 @@ node_modules/
 Procfile
 .vercel
 .ebextensions
+config.bat
